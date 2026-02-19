@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[dependencies.sadiqmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.sadiqmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[mods]]
+    modId="sadiqmod"
+    version="1.0.0"
+    displayName="SadiqMod"
+    description='''
+        The legendary SadiqMod - featuring the one and only Sadiq!
+        عمبة زوط لابوبو
+    '''

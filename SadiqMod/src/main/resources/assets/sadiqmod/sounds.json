@@ -1,0 +1,26 @@
+{
+  "amba": {
+    "sounds": [
+      {
+        "name": "sadiqmod:amba",
+        "stream": false
+      }
+    ]
+  },
+  "zoot": {
+    "sounds": [
+      {
+        "name": "sadiqmod:zoot",
+        "stream": false
+      }
+    ]
+  },
+  "labubu": {
+    "sounds": [
+      {
+        "name": "sadiqmod:labubu",
+        "stream": false
+      }
+    ]
+  }
+}
